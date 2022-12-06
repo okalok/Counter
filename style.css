@@ -1,0 +1,38 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    background: rgb(242, 238, 238);
+    font-family: serif;
+}
+div{
+    position: fixed;
+    top: 33%;
+    left: 35%;
+}
+p{
+    font-size: 52px;
+    text-transform: capitalize;
+    letter-spacing: 3px;
+    font-weight: bolder;
+    position: relative;
+    left: 31%;
+    color: rgb(12, 237, 237);
+}
+#count{
+    left: 46%;
+    color: rgb(243, 119, 11);
+    font-size: 8vh;
+}
+button{
+    letter-spacing: 4px;
+    text-transform: capitalize;
+    width: 7vw;
+    height: 4vh;
+    margin: 35px 25px 35px 15px;
+    font-size: 18px;
+    border-color: black;
+    border-width: 3px;
+    border-radius: 6px;
+    cursor: pointer;
+}
